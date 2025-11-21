@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 #### Connect With Me
 
-![https://www.instagram.com/alberrrrttttoo/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alberrrrttttoo/)
 
+#####
+[![AbangBerto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbangBerto&show_icons=true&theme=gruvbox)]
 
-🌱 I’m currently learning Laravel Framework
