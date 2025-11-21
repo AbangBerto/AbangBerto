@@ -24,6 +24,14 @@ Here are some ideas to get you started:
 ![AbangBerto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbangBerto&show_icons=true&theme=gruvbox)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbangBerto/AbangBerto/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbangBerto/AbangBerto/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbangBerto/AbangBerto/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
