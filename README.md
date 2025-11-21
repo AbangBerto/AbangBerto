@@ -33,6 +33,11 @@ Here are some ideas to get you started:
 ###
 
 
+<img src="https://raw.githubusercontent.com/AbangBerto/AbangBerto/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
