@@ -1,28 +1,45 @@
-## Hello i'm Alberto Safanda 👋
+## Hello, I'm Alberto Safanda 👋
 
-![Alberto Safanda](img/header2.jpg)
-<!--
-**AbangBerto/AbangBerto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=FACC15&center=true&vCenter=true&width=600&lines=Selamat+Datang;Di+Akun+Github;Alberto+Safanda" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="img/header2.jpg" alt="Alberto Safanda" width="90%" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbangBerto&label=Profile%20Views&color=yellow&style=flat" alt="Profile views" />
+</p>
 
-#### Connect With Me
+---
+
+### 🤝 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alberrrrttttoo/)
 
-#####
-![AbangBerto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbangBerto&show_icons=true&theme=gruvbox)
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbangBerto&show_icons=true&theme=gruvbox" alt="AbangBerto's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbangBerto&layout=compact&theme=gruvbox" alt="Top Langs" />
+</p>
+
+<!-- New: GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbangBerto&theme=gruvbox&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🟡 Pacman Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbangBerto/AbangBerto/output/pacman-contribution-graph-dark.svg">
@@ -30,11 +47,10 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbangBerto/AbangBerto/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
+<p align="center">
+  <i>Terima kasih sudah mampir ke profil GitHub saya 👋</i>
+</p>
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
+<!-- Clean, simple, and a bit more alive 😄 -->
