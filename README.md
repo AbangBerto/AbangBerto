@@ -32,11 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbangBerto&layout=compact&theme=gruvbox" alt="Top Langs" />
 </p>
 
-<!-- New: GitHub Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbangBerto&theme=gruvbox&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🟡 Pacman Contribution Graph
