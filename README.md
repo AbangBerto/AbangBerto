@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 #### Connect With Me
 
-![https://instagram.com/alberrrrttttoo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+![https://www.instagram.com/alberrrrttttoo/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )
 
 
