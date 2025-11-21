@@ -1,4 +1,5 @@
 ## Hello i'm Alberto Safanda 👋
+![berto](img/github-header-banner.jpg)
 ![Alberto Safanda](img/header2.jpg)
 <!--
 **AbangBerto/AbangBerto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
