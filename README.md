@@ -21,7 +21,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alberrrrttttoo/)
 
 ---
----
 
 ### 🟡 Pacman Contribution Graph
 
@@ -36,5 +35,3 @@
 <p align="center">
   <i>Terima kasih sudah mampir ke profil GitHub saya 👋</i>
 </p>
-
-<!-- Clean, simple, and a bit more alive 😄 -->
