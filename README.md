@@ -21,17 +21,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alberrrrttttoo/)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbangBerto&show_icons=true&theme=gruvbox" alt="AbangBerto's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbangBerto&layout=compact&theme=gruvbox" alt="Top Langs" />
-</p>
-
 ---
 
 ### 🟡 Pacman Contribution Graph
