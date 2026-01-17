@@ -22,6 +22,16 @@
 
 ---
 
+### 💻 Detailed Language Stats
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=AbangBerto&layout=compact&theme=vision-friendly-dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+
+
+---
+![Metrics](https://github.com/AbangBerto/AbangBerto/blob/main/github-metrics.svg)
+
+---
+
+
 ### 🟡 Pacman Contribution Graph
 
 <picture>
